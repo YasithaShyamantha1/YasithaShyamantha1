@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yasitha Shyamantha</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">My name is Yasitha Shyamantha, a Fourth-year IT undergraduate at the SLIIT. I have strong skills in HTML,
+CSS, and JavaScript, along with experience in frameworks like React.js and Next.js for REST API
+development. Skilled in both SQL and NoSQL databases, including MySQL and MongoDB, I also have asolid
+foundation in object oriented programming with Java, Python. Eager to contribute to an innovative team, I
+am adaptable, hardworking, and ready to bring value to your organization as an intern while further
+developing my technical expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithashyamantha1&label=Profile%20views&color=0e75b6&style=flat" alt="yasithashyamantha1" /> </p>
 
